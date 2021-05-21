@@ -5,3 +5,4 @@ Git tracks changes of files.
 stupid apple
 Creating a new branch is quick.
 add merge
+add a no-ff test
