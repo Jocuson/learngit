@@ -3,3 +3,4 @@ test merge master to dev
 test merge dev to master
 add a new branch
 create a conflict &
+branch management
