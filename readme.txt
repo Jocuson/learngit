@@ -6,3 +6,4 @@ stupid apple
 Creating a new branch is quick.
 add merge
 add a no-ff test
+
