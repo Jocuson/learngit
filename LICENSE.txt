@@ -5,3 +5,4 @@ add a new branch
 create a conflict &
 branch management
 practise
+test merge from master to dev
